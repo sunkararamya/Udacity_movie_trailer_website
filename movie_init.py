@@ -10,8 +10,7 @@ def main():
                           "https://www.youtube.com/watch?v=yJU2qRg5zLI",
                           "October 2, 2009")
 
-    get_out = film_media.Film("Get Out",'''A young African-American vis its his white girlfriend parents for the weekend, where his simmering uneasiness about"
-                              their reception of him eventually reaches a boiling point.''',
+    get_out = film_media.Film("Get Out","A young African-American vis its his white girlfriend parents for the weekend, where his simmering uneasiness abouttheir reception of him eventually reaches a boiling point.",
                           "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
                           "https://www.youtube.com/watch?v=sRfnevzM9kQ",
                           "July 11,2016")
