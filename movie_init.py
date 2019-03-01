@@ -5,9 +5,7 @@ def main():
     """Creates six Movie objects, initialising these objects with title, storyline,
     poster image link, video trailer link and release date."""
     In_the_Loop = film_media.Film("In the Loop",
-                          "A political satire about a group of skeptical"
-                                  "American and British operatives attempting to"
-                                  "prevent a war between two countries.",
+                          "A political satire about a group of skeptica American and British operatives attempting to prevent a war between two countries.",
                           "https://cover.box3.net/newsimg/dvdmov/max1355591424-inlay-cover.jpg",
                           "https://www.youtube.com/watch?v=yJU2qRg5zLI",
                           "October 2, 2009")
