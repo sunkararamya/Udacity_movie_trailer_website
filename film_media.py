@@ -2,9 +2,9 @@
 import webbrowser
 
 class Film(object):
-    """This class provides a way to store movie related information.
+    """This class provides a way to store movie related information."""
 
-    Attributes:
+    """Attributes:
         title: A string to store the title of the movie.
         storyline: A string to store the basic plot of the movie.
         poster_image_url: A string to store the URL of the movie poster.
