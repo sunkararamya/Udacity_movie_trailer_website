@@ -18,7 +18,7 @@ def main():
   
 
    Mission_Impossible = film_media.Film("Mission: Impossible - Fallout",
-                                        '''a devil movie on titanic''',
+                                        "a devil movie on titanic",
                          "https://images-na.ssl-images-amazon.com/images/I/814V1XJaoAL._SY445_.jpg",
                          "https://www.youtube.com/watch?v=wb49-oV0F78",
                          "Feb 5, 2018")
