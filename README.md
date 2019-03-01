@@ -12,7 +12,7 @@ It is about a  Python program that produces the HTML file for a movie website th
 Python 2.x is required to run this project. The Python executable should be in
 your default path, which the Python installer should have set.
 
-## Project contents
+ Project contents
 
 This project consists for the following files:
 
@@ -36,7 +36,7 @@ python movie_init.py
 
 *Your default browser should launch a new tab displaying the movie trailer website.
 
-## Extra Credit Description
+ Extra Credit Description
 
 The following features were implemented to gain an extra credit from Udacity:
 
